@@ -1,0 +1,3 @@
+# Example environment template
+APP_NAME: sample-app
+ENV: dev
